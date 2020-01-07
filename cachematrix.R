@@ -1,3 +1,5 @@
+## R Programming - Week 3 - Programming Assignment
+
 ## These functions find the inverse of a matrix, assuming that the matrix is always invertible.
 ## One function can cache this inverse while the second will call upon it.
 ## If no cached inverse is found, the second function will calculate it.
